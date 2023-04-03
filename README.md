@@ -17,6 +17,7 @@ I love the 7 row ThinkPad keyboards and wanted to see if I could convert one to 
     - A very similar implementation, proof this idea can work.
   - https://drive.google.com/file/d/0B6IqcVTk0jpYZ18yenc1b2d0QkE/view?resourcekey=0-nYqUiMwWlOcGj5tjHnmOEA
     - Schematics for X220
+- https://youtu.be/FwnfiDEq4XI - another reference project with the x220
 
 ## The Build Log
 
